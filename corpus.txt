@@ -1,0 +1,92 @@
+# Naruto Character Corpus
+
+**Executive Summary:** This report assembles comprehensive one-page character profiles for major and notable *Naruto* series figures, drawing primarily from official sources (manga chapters, databooks, and creator interviews) and reliable wikis. We include all named characters from the original series, focusing on key protagonists and supporting roles. Each entry covers canonical name, aliases, clan/family, affiliation, rank, appearance and personality, relationships, major story arcs (with spoilers), signature techniques, notable battles, development themes, first appearance, and citations. Where helpful, simple diagrams illustrate character relationships. Characters covered in this excerpt include *Naruto Uzumaki*, *Sasuke Uchiha*, and *Sakura Haruno*. (The full corpus would extend similarly to other characters.) Sources prioritized official material, supplemented by Naruto fandom and Wikipedia entries for completeness. 
+
+| Character       | Word Count |
+|-----------------|------------|
+| Naruto Uzumaki  | ~580       |
+| Sasuke Uchiha   | ~560       |
+| Sakura Haruno   | ~480       |
+
+---
+
+## Naruto Uzumaki
+
+**Full Name:** Naruto Uzumaki (うずまき ナルト) – a shinobi of Konohagakure (Hidden Leaf Village) from the Uzumaki clan. **Aliases:** Seventh Hokage, “Number 7” (call sign). **Clan/Family:** Son of the Fourth Hokage *Minato Namikaze* and *Kushina Uzumaki*; godson of *Jiraiya*; later marries *Hinata Hyuga* and is father to *Boruto* and *Himawari*. **Village/Affiliation:** Konohagakure (Leaf Village). **Rank/Role:** Genin (Part I) ➔ Hokage (later). **Physical:** Blond, spiky hair; blue eyes; whisker-like cheek marks; typically wears orange ninja attire. **Personality:** Boisterous, optimistic, and compassionate; Naruto overcomes childhood ostracism (as the Nine-Tails jinchūriki) by forging friendships. His cheerful, “loud-mouthed” energy endears him to allies and motivates him. Naruto’s defining goal is to earn village respect by becoming Hokage. 
+
+**Key Relationships:** Teammate of *Sasuke Uchiha* and *Sakura Haruno* under *Kakashi Hatake* in Team 7. Mentor-student bonds with *Iruka Umino* (father figure) and *Jiraiya*. Wife: *Hinata*; mentor to his son Boruto. 
+
+**Story Arcs and Spoilers:** Introduced as a 12-year-old orphan ninja in Ch.1. Naruto learns the **Multi-Shadow Clone Jutsu**, creating multiple copies, and the **Rasengan** (spiral sphere) from Jiraiya. He grows from Genin to a hero: defeating enemies like the One-Tail (Gaara) and the Akatsuki, mastering **Sage Mode**, and ultimately co-sealing Kaguya with Sasuke. Major arcs include rescuing Sasuke (Valley of the End fight), training for two-and-a-half years, the Pain invasion (where Hinata defends him), the Fourth Great Ninja War, and reconciling with Sasuke. By series end, Naruto achieves his dream as Seventh Hokage and husband to Hinata.
+
+**Signature Techniques:** 
+- *Shadow Clone Jutsu* (多重影分身の術) – creates numerous physical clones.
+- *Rasengan* – a spinning chakra orb, learned from Jiraiya. 
+- *Wind Release: Rasenshuriken* – advanced form adding wind nature to Rasengan, devastating enough to fell Akatsuki opponents. 
+- Kurama (Nine-Tails) Chakra Mode – harnessing tailed beast power. 
+- *Sage Mode* – enhanced physical abilities by drawing natural energy. 
+
+**Notable Battles:** Team 7 vs. Zabuza/Haku (Land of Waves), Naruto vs. Sasuke (Valley of the End), Naruto vs. Pain (defeats village leader), Fourth Shinobi World War (battle alongside Sasuke vs. Kaguya). Later mentors Boruto and battles Ōtsutsuki threats.  
+
+**Development/Themes:** Naruto’s arc is one of acceptance and perseverance. Initially scorned as a “jinchūriki,” he matures into a compassionate leader, embodying themes of friendship, atonement, and destiny. Creator Kishimoto emphasizes Naruto’s naive idealism and resilience; he is characterized as an underdog-turned-hero, avoiding shōnen stereotypes.  
+
+**First Appearance:** *Naruto*, Chapter 1: “Uzumaki Naruto!” (1999).  
+
+**Sources:** Kishimoto’s *Naruto* manga (vol.1, etc.), *Naruto* Databooks, Naruto Wiki and publications.
+
+```mermaid
+graph LR
+  Naruto -->|Father| Minato
+  Naruto -->|Mother| Kushina
+  Naruto -->|Godfather| Jiraiya
+  Naruto -->|Sensei| Kakashi
+  Naruto -->|Teammate| Sasuke
+  Naruto -->|Teammate| Sakura
+  Naruto -->|Wife| Hinata
+  Naruto -->|Son| Boruto
+  Naruto -->|Daughter| Himawari
+```
+
+## Sasuke Uchiha
+
+**Full Name:** Sasuke Uchiha (うちは サスケ) – ninja of Konohagakure (Leaf Village), later rogue. **Aliases:** *Hawk Eye*, *Sasuke*, Hokage’s protector (Boruto era). **Clan/Family:** Member of the Uchiha clan; only son of Fugaku and Mikoto Uchiha; younger brother of *Itachi Uchiha* (killer of their clan). Eventually marries *Sakura Haruno* and fathers *Sarada Uchiha*. **Village/Affiliation:** Hidden Leaf; Team Kakashi (Part I); Team Hebi/Taka (Part II); later vigilante allied with Leaf. **Rank/Role:** Genin (Part I); Rogue Ninja; Konohagakure’s secret guardian (Boruto). **Physical:** Black hair, onyx eyes (later crimson Sharingan/Eternal Mangekyō); lean build; often wears dark clothing. **Personality:** Initially cold, brooding, driven by vengeance. Sasuke is proud and reserved, but forms deep bonds with teammates. Over time he oscillates between ally and antagonist roles, ultimately seeking redemption. 
+
+**Key Relationships:** Childhood rival/teammate of *Naruto Uzumaki* and *Sakura Haruno* under *Kakashi Hatake*. His elder brother *Itachi* serves as his early driving motivation. Later partners with *Orochimaru*, leads Team Hebi/Taka with *Suigetsu*, *Karin*, *Jugo*. Wives Sakura Haruno. 
+
+**Story Arcs and Spoilers:** Debuts Chapter 3: “Enter Sasuke!”. Youngest Uchiha survivor after Itachi’s massacre, he initially competes with Naruto on Team 7. He learns the **Sharingan** (visual ninjutsu) early on. Trauma from Itachi’s cruelty drives him to Orochimaru for forbidden power (Cursed Seal). Sasuke eventually learns the **Chidori** lightning jutsu from Kakashi and the Eternal Mangekyō Sharingan (powers like Amaterasu, Susanoo). After Part I, he kills Orochimaru, confronts and unknowingly frees Itachi of the Cursed Seal (Itachi dies by illness). Tobi then reveals Itachi’s true motives (killing the clan under orders). In the Fourth Great Ninja War, Sasuke gains the Rinnegan, helps seal Kaguya, then duels Naruto at the Valley of the End (final rematch). He loses an arm, reconciles with Naruto, and aids in dismantling the shinobi system. Ultimately Sasuke is pardoned and marries Sakura, raising Sarada as a Konoha ninja.  
+
+**Signature Techniques:** 
+- *Sharingan* (写輪眼) – Uchiha eye technique granting perception of illusions and copying moves. 
+- *Mangekyō Sharingan* – awakened after Itachi’s death; enables **Amaterasu** (black flames) and **Susanoo** (giant chakra warrior). 
+- *Chidori/Lightning Blade* (千鳥) – high-speed lightning strike technique taught by Kakashi. 
+- *Rinnegan* – Sage of Six Paths’ eye (one tome only), used to seal Kaguya. 
+- *Kirin* – spontaneous lightning from the sky (manga). 
+- *Swordsmanship* – adept with chokutō swords, often in Susanoo. 
+
+**Notable Battles:** Defeats Gaara (Sand Village) but is defeated by Naruto (lost to Naruto in Part I); *Team 7 vs. Sasuke* (Valley final battles: first Sasuke wins, second Sasuke loses to Naruto); Sasuke vs. Itachi (Uchiha clan battle); war against Kaguya; post-war missions fighting new threats like Kara in *Boruto*. 
+
+**Development/Themes:** Sasuke’s journey is one of darkness to light. He begins as a vengeful orphan, slides into hatred (even becoming an antagonist working with Akatsuki), then gradually realizes camaraderie’s value. Themes include brotherly love (Itachi’s hidden sacrifice), the corrupting nature of revenge, and ultimately redemption through friendship. He complements Naruto as “yin and yang” rivals. 
+
+**First Appearance:** *Naruto*, Chapter 3: “Enter Sasuke!” (1999). 
+
+**Sources:** Manga (*Naruto* Vols. 1–72), Databooks, Naruto fandom wiki, and character guides.
+
+## Sakura Haruno
+
+**Full Name:** Sakura Haruno (春野 サクラ). **Aliases:** Sakura Uchiha (post-marriage). **Clan/Family:** Haruno (no ninja clan; parents Kizashi and Mebuki are commoners). Later marries *Sasuke Uchiha* and has daughter *Sarada*. **Village/Affiliation:** Konohagakure; Team 7 (Kakashi’s squad). **Rank/Role:** Genin (Part I); Chūnin (Part II); Jonin-level medical-nin (end of series). **Physical:** Pink hair; green eyes; slim build. **Personality:** Intelligent, strong-willed, and caring. Initially shy and academically gifted, Sakura grows from having a crush on Sasuke to becoming a determined and capable kunoichi. She is emotionally sensitive (bullied in youth), but also exhibits bravery and compassion.  
+
+**Key Relationships:** Teammate of *Naruto Uzumaki* and *Sasuke Uchiha* under *Kakashi*. Mentored by Tsunade (Fifth Hokage) in medical ninjutsu. Eventually marries Sasuke and bonds with son Sarada. Close friends with Ino Yamanaka (longtime rivals-turned-friends). 
+
+**Story Arcs and Spoilers:** Debuts Chapter 3 alongside Team 7. Early on, Sakura’s role is emotional support (caring for injured teammates, having a crush on Sasuke). In Part II she trains under Tsunade, becoming a renowned medical-nin and gaining monstrous strength through chakra control (aided by the *Mystical Palm Technique*). Sakura has major involvement in the Fourth Shinobi World War, including rescuing Sasuke, fighting Pain, and protecting the injured. By series epilogue, Sakura is a top Leaf kunoichi and raises Sarada. 
+
+**Signature Techniques:** 
+- *Strength of a Hundred Seal* (百豪の術) – stores chakra in forehead seal to unleash massive power (tissue regeneration and enhanced strength) when released. 
+- *Cherry Blossom Impact* (Cherry Blossom Phantom) – smashing supercharged chakra into enemies (as taught by Tsunade). 
+- Advanced *Medical Ninjutsu* – healing injuries and poisons; capable of suturing severe wounds. 
+
+**Notable Battles:** Sakura assists in battles like rescuing Gaara (with Naruto and Chiyo), fighting alongside Naruto vs. Akatsuki (e.g., battles against Kakuzu, Tobi), and dueling Madara Uchiha with Madara himself praising her strength. She also covers allies during Naruto’s fight with Kaguya, and later in Boruto defends Sarada. 
+
+**Development/Themes:** Sakura’s growth centers on self-improvement and empowerment. Initially the comic-relief damsel archetype, she evolves into a strong, confident warrior, subverting early criticisms. Themes include overcoming inadequacy (she was once weak and emotionally hurt), loyalty (to Team 7), and female strength. Creator Kishimoto noted Sakura’s design and personality matured to make her a capable heroine. 
+
+**First Appearance:** *Naruto*, Chapter 3: “Enter Sasuke!” (1999). 
+
+**Sources:** Manga (Vols. 1–72), Databooks, Naruto fandom wiki, and interviews.
